@@ -1,0 +1,124 @@
+
+.Navbar{
+    list-style: none;
+    display: flex;
+    gap: 8em;
+}
+.Navbar1{
+display: flex;
+gap: 1em;
+margin-top: 2%;
+float: left;
+}
+.Navbar2{
+    display: flex;
+    gap: 3em;
+    margin-top: 2%;
+}
+#logo{
+    width: 20%;
+}
+.logon{
+    display: flex;
+    justify-content: center;
+}
+#shopnow{
+    max-width: 100%;
+    height: min-content;
+}
+.imgs{
+    background-image: url(Img/clothes4.avif);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#heading1{
+    font-size: 80px;
+    color: rgb(75, 107, 12);
+}
+#shopnowb{
+    margin-left: 50%;
+}
+.jeans{
+    background-image: url(Img/jeans.avif);
+    width: 40%;
+    height: 80vh;
+    display: flex;
+    align-items: end;
+   list-style: none;
+}
+.dress{
+    background-image: url(Img/dress.avif);
+    width: 40%;
+    height: 80vh;
+    display: flex;
+    align-items: end;
+}
+.tops{
+    background-image: url(Img/topss.avif);
+    width: 40%;
+    height: 80vh;
+    display: flex;
+    align-items: end;
+    background-repeat: no-repeat;
+}
+.row1{
+    display: flex;
+    gap: 2em;
+    margin-top: 5%;
+}
+.shoes{
+    background-image: url(Img/shoes.avif);
+    width: 40%;
+    height: 80vh;
+    display: flex;
+    align-items: end;
+}
+.jackets{
+    background-image: url(Img/jackets.avif);
+    width: 40%;
+    height: 80vh;
+    display: flex;
+    align-items: end;
+}
+.skirt{
+    background-image: url(Img/skirt.webp);
+    width: 40%;
+    height: 80vh;
+    display: flex;
+    align-items: end;
+}
+.row2{
+    display: flex;
+    gap: 2em;
+    margin-top: 5%;
+}
+.footer1{
+    text-align: center;
+    margin-top: 5%;
+    background-color: gray;
+    padding-top: 3%;
+}
+.footerall{
+    background-color: gray;
+}
+.footer2{
+    display: flex;
+    gap: 15em;
+    margin: 5% 15% 0 15%;
+    background-color: gray;
+}
+.home{
+    list-style: none;
+}
+.store{
+    list-style: none;
+}
+.icons{
+    list-style: none;
+}
